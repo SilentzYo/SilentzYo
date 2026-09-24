@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://silentzyo.github.io/
+[https://silentzyo.github.io/](https://www.haydenleung.dev/)
 <!--
 **SilentzYo/Silentzyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
